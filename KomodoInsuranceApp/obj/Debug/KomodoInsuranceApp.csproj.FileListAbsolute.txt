@@ -1,0 +1,7 @@
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\bin\Debug\KomodoInsuranceApp.exe.config
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\bin\Debug\KomodoInsuranceApp.exe
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\bin\Debug\KomodoInsuranceApp.pdb
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\obj\Debug\KomodoInsuranceApp.csproj.AssemblyReference.cache
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\obj\Debug\KomodoInsuranceApp.csproj.CoreCompileInputs.cache
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\obj\Debug\KomodoInsuranceApp.exe
+\\LS710D8E1\share\ElevenFiftyProjects\KomodoInsuranceApp\KomodoInsuranceApp\KomodoInsuranceApp\obj\Debug\KomodoInsuranceApp.pdb
